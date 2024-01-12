@@ -3,14 +3,12 @@
 
 # Overview
 
--This repository contains SQL questions and solutions generated during my learning process. It serves as a compilation of my progress in mastering SQL concepts.
+- This repository contains SQL questions and solutions generated during my learning process. It serves as a compilation of my progress in mastering SQL concepts.
 
 
 # About the case study
 
-
-- The case study is about a restaurant owner, Danny, who started a japanese restaurant in the beginning of 2021.
-He sells three of his favourite japanese food - Sushi, Ramen, and Curry.
+- The case study is about a restaurant owner, Danny, who started a Japanese restaurant in the beginning of 2021. He sells three of his favourite japanese food - Sushi, Ramen, and Curry.
 
 
 # Learning Goal
@@ -31,6 +29,8 @@ He sells three of his favourite japanese food - Sushi, Ramen, and Curry.
 # Acknowledgement 
 - The data set is from a case study available at  https://8weeksqlchallenge.com/case-study-1/. The solutions are available on both GitHub and YouTube.
   
+
+# Conclusion
 
 Despite the availability of online solutions, I endeavored to tackle several questions using my unique approach and queries. However, for some challenging questions, I found it beneficial to refer to existing solutions. This experience has been invaluable in deepening my understanding, guiding me on when to apply specific functions, and overall contributing significantly to my learning journey as a beginner in SQL
 
